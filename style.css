@@ -1,0 +1,226 @@
+.custom-bg {
+  background-color: #F0ECF9;
+  border-radius: 0px 0px 300px 0px;
+}
+
+.logo {
+  font-family: "Arvo", serif;
+  font-size: 30px !important;
+}
+
+.custom-image {
+  width: 500px !important;
+}
+
+.navb-link {
+  font-size: 18px !important;
+  padding-right: 15px !important;
+}
+
+.bars {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar-collapse {
+  width: 100%;
+  justify-content: end;
+}
+
+.custom-text {
+  font-family: "Mulish", sans-serif;
+  color: #6F42C199;
+  font-weight: 600;
+}
+
+.custom-hero-text {
+  color: #6F42C1;
+  font-family: "Mulish", sans-serif;
+  font-size: 50px !important;
+  font-weight: 800;
+}
+
+.custom-text2 {
+  color: #808081;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+  width: 60%;
+
+}
+
+.buttons {
+  background-color: #6F42C1 !important;
+  border-radius: 50px !important;
+  color: #808081;
+  font-family: "Mulish", sans-serif;
+  font-size: small !important;
+  padding: 10px 20px !important;
+  font-size: 17px !important;
+}
+
+.buttons:hover {
+  background-color: #808081 !important;
+}
+
+.custom-text3 {
+  text-align: center;
+}
+
+.custom-card {
+  border: none !important;
+}
+
+h5 {
+  font-family: "Mulish", sans-serif;
+  font-weight: 800 !important;
+  font-size: 35px !important;
+}
+
+h2 {
+  font-family: "Mulish", sans-serif;
+  font-weight: 800 !important;
+  color: #6F42C1 !important;
+}
+
+.custom-p {
+  color: #808081;
+  font-family: "Mulish", sans-serif;
+  font-weight: 400;
+}
+
+.image2 {
+  width: 500px;
+}
+
+.sml-card {
+  border: none !important;
+  width: 25%;
+}
+
+.card-text-div {
+  width: 110%;
+}
+
+.para-4 {
+  font-family: "Mulish", sans-serif;
+  font-weight: 800 !important;
+  color: #6F42C1 !important;
+  font-size: 18px !important;
+}
+
+.img4 {
+  width: 60px;
+}
+
+.img-div {
+  width: 20% !important;
+}
+
+.bg-color {
+  background-color: #F8F5FC;
+}
+
+p {
+  font-family: "Mulish", sans-serif;
+  color: rgb(141, 140, 140);
+}
+
+.home-text {
+  font-size: 15px !important;
+}
+
+.home-p {
+  font-size: 15px !important;
+}
+
+li {
+  color: rgb(141, 140, 140);
+  padding-bottom: 10px;
+}
+
+li::marker {
+  color: #6F42C1;
+}
+
+.do {
+  font-size: 18px;
+}
+
+.do::marker {
+  color: green;
+}
+
+.avoid {
+  font-size: 18px;
+}
+
+.avoid::marker {
+  color: red;
+}
+
+h6 {
+  font-family: "Mulish", sans-serif;
+  font-size: 20px !important;
+}
+
+.card4 {
+  border: none !important;
+}
+
+span {
+  font-family: "Mulish", sans-serif;
+  color: #6F42C1 !important;
+}
+
+.card-images {
+  width: 100%;
+}
+
+h3 {
+  font-family: "Mulish", sans-serif !important;
+  font-size: 20px !important;
+  background-color: #6F42C1;
+  color: white !important;
+}
+
+.para-3 {
+  font-family: "Mulish", sans-serif !important;
+  font-size: 17px !important;
+  color: #6F42C1 !important;
+}
+
+.admin-icon {
+  width: 28px;
+  height: 28px;
+}
+
+.admin-text {
+  font-family: "Mulish", sans-serif !important;
+  font-size: 14px !important;
+  padding-top: 5px;
+  padding-left: 5px;
+}
+
+.foot-hd {
+  font-family: "Mulish", sans-serif !important;
+  font-weight: 700 !important;
+}
+
+.foot-para {
+  font-size: 15px !important;
+}
+
+.foot-img {
+  width: 30px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.foot-link {
+  list-style: none;
+  color: #6F42C1;
+  font-size: 15px !important;
+  cursor: pointer;
+}
